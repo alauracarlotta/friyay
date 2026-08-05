@@ -1,0 +1,26 @@
+{
+	"name": "friyay",
+	"version": "1.0.0",
+	"description": "Weeky Friendly (ou \"Friyay-baby!\") é um planner divertido pra você se organizar durante a semana e se divertir no fim dela.",
+	"homepage": "https://github.com/alauracarlotta/friyay#readme",
+	"bugs": {
+		"url": "https://github.com/alauracarlotta/friyay/issues"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/alauracarlotta/friyay.git"
+	},
+	"license": "MIT",
+	"author": "",
+	"main": "index.js",
+	"scripts": {
+		"dev": "next dev",
+		"build": "next build",
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"dependencies": {
+		"next": "^16.3.0",
+		"react": "^19.2.8",
+		"react-dom": "^19.2.8"
+	}
+}
